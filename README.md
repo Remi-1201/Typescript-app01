@@ -4,7 +4,8 @@
 
 1. 基本的な型
 2. 引数の型指定
+3. 返却値の型指定
 
 ### Links
 
-- [成果物](https://ui3jgm.csb.app/)
+- [成果物](https://rnre1s.csb.app/)
