@@ -3,6 +3,7 @@
 ### Section 9 - React x Typescript（基礎編）
 
 1. 基本的な型
+2. 引数の型指定
 
 ### Links
 
