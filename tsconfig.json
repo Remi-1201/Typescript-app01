@@ -3,7 +3,9 @@
         "./src/**/*"
     ],
     "compilerOptions": {
-        // "strict": true,
+        // 新規開発の場合は"strict": trueのままで安全
+        "strict": true,
+        "noImplicitAny": false,
         "esModuleInterop": true,
         "lib": [
             "dom",
